@@ -32,6 +32,7 @@ public class ATM {
                 case 4:
                     System.out.println();
                     System.out.println("Thank you for using the ATM. Goodbye!");
+                    System.out.println();
                     return;
                 default:
                     System.out.println("Invalid option. Please try again.");
