@@ -1,4 +1,4 @@
-package Task2;
+package codsoft_Task2;
 import java.util.Scanner;
 
 public class Student_Grade_Calculator {

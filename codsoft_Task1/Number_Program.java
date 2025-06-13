@@ -1,4 +1,4 @@
-package Task1;
+package codsoft_Task1;
 
 import java.util.Scanner;
 import java.util.Random;

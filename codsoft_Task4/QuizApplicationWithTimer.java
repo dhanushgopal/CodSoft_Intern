@@ -1,4 +1,4 @@
-package Task4;
+package codsoft_Task4;
 
 
 import java.util.*;

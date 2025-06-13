@@ -1,4 +1,4 @@
-package Task3;
+package codsoft_Task3;
 
 public class Bank_Account {
     private double balance;

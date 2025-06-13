@@ -1,4 +1,4 @@
-package Task3;
+package codsoft_Task3;
 import java.util.Scanner;
 public class ATM {
     private Bank_Account account;
