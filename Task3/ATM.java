@@ -9,8 +9,10 @@ public class ATM {
         
     }
     public void start() {
+        System.out.println("\n--- Welcome to the ATM ---");
+        System.out.println();
         while (true) {
-            System.out.println("\n--- Welcome to the ATM ---");
+            System.out.println("Enter your Option");
             System.out.println("1. Check Balance");
             System.out.println("2. Withdraw");
             System.out.println("3. Deposit");
